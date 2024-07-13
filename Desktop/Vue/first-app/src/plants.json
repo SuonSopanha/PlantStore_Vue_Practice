@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Fiddle Leaf Fig",
+    "family": "Moraceae",
+    "price": 49.99,
+    "description": "The Fiddle Leaf Fig is a popular houseplant known for its large, violin-shaped leaves.",
+    "native_region": "Western Africa"
+  },
+  {
+    "name": "Snake Plant",
+    "family": "Asparagaceae",
+    "price": 29.99,
+    "description": "The Snake Plant is a hardy indoor plant with long, upright leaves that are green with yellow edges.",
+    "native_region": "West Africa"
+  },
+  {
+    "name": "Monstera Deliciosa",
+    "family": "Araceae",
+    "price": 39.99,
+    "description": "The Monstera Deliciosa, also known as the Swiss Cheese Plant, is famous for its large, split leaves.",
+    "native_region": "Central America"
+  },
+  {
+    "name": "Peace Lily",
+    "family": "Araceae",
+    "price": 24.99,
+    "description": "The Peace Lily is a popular indoor plant known for its elegant white flowers and glossy green leaves.",
+    "native_region": "Tropical Americas"
+  },
+  {
+    "name": "Aloe Vera",
+    "family": "Asphodelaceae",
+    "price": 19.99,
+    "description": "Aloe Vera is a succulent plant known for its medicinal properties and fleshy, green leaves.",
+    "native_region": "Arabian Peninsula"
+  },
+  {
+    "name": "Pothos",
+    "family": "Araceae",
+    "price": 15.99,
+    "description": "Pothos is an easy-to-care-for houseplant with trailing vines and heart-shaped leaves that are often variegated.",
+    "native_region": "Southeast Asia"
+  },
+  {
+    "name": "ZZ Plant",
+    "family": "Araceae",
+    "price": 34.99,
+    "description": "The ZZ Plant is a hardy indoor plant with waxy, oval leaves that grow on thick, fleshy stems.",
+    "native_region": "Eastern Africa"
+  },
+  {
+    "name": "Spider Plant",
+    "family": "Asparagaceae",
+    "price": 18.99,
+    "description": "The Spider Plant is a popular houseplant known for its arching, grass-like leaves and spider-like offshoots.",
+    "native_region": "Southern Africa"
+  },
+  {
+    "name": "Rubber Plant",
+    "family": "Moraceae",
+    "price": 32.99,
+    "description": "The Rubber Plant is a large indoor plant known for its broad, glossy leaves that are dark green or burgundy.",
+    "native_region": "South Asia"
+  },
+  {
+    "name": "Bird of Paradise",
+    "family": "Strelitziaceae",
+    "price": 59.99,
+    "description": "The Bird of Paradise is an exotic plant known for its striking flowers that resemble a bird in flight.",
+    "native_region": "South Africa"
+  }
+]
